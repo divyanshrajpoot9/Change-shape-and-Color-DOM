@@ -32,3 +32,10 @@ document: The document object represents the entire HTML document and serves as 
 5. **Event Listeners**: Event listeners are added to the "ColorBtn" and "ShapeBtn" elements to trigger the `ChangeColorfun` and `generateShapes` functions when these buttons are clicked.
 
 In summary, this code sets up a basic web application where clicking the "ColorBtn" button changes the background color of the container to a random color from the `colors` array, and clicking the "ShapeBtn" button generates and displays a random shape (circle, square, or triangle) inside the container. The displayed shape replaces any existing shape within the container. The shape and color changes are made dynamically based on user interaction with the buttons.
+![Screenshot 2023-11-03 170210](https://github.com/divyanshrajpoot9/Change-shape-and-Color-DOM/assets/114856467/62a51541-618d-473a-b12d-82c57c0c5e5b)
+![Screenshot 2023-11-03 170308](https://github.com/divyanshrajpoot9/Change-shape-and-Color-DOM/assets/114856467/599ab446-5bf4-417c-bdc3-bd26aa4e84b1)
+![Screenshot 2023-11-03 170252](https://github.com/divyanshrajpoot9/Change-shape-and-Color-DOM/assets/114856467/4f3dabf6-262b-491c-8dcf-10c9844687de)
+![Screenshot 2023-11-03 170300](https://github.com/divyanshrajpoot9/Change-shape-and-Color-DOM/assets/114856467/1ae70df9-06aa-4463-8c7d-8157a8b5aa0f)
+
+
+
